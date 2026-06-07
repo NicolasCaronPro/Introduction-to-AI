@@ -7,7 +7,7 @@ This repository contains teaching material and hands-on exercises for an introdu
 ```text
 .
 ├── cours-1/
-│   ├── Introduction.pdf
+│   ├── main.pdf
 │   └── linear_regression_from_scratch_exercises.ipynb
 ├── cours-2/
 │   ├── Neural Network.pdf
@@ -21,7 +21,7 @@ The first course introduces foundational AI and machine learning concepts, then 
 
 ### Materials
 
-- `cours-1/Introduction.pdf` — introductory lecture slides.
+- `cours-1/main.pdf` — introductory lecture slides.
 - `cours-1/linear_regression_from_scratch_exercises.ipynb` — practical notebook on linear regression.
 
 ### Topics Covered
